@@ -1,10 +1,10 @@
-## Olá! Eu sou TassiBR
+## Olá! Eu sou Guto_tassi
 
 - 🔭 Hoje eu trabalho com back end
 - 🌱 Estudando CSS e C
 
 <div>
-  <a href="https://github.com/TassiBR">
+  <a href="https://github.com/Gutotassi">
   <img width ="39%" src="https://github-readme-stats.vercel.app/api?username=TassiBR&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img width ="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TassiBR&theme=merko&langs_count=16&layout=compact"/>
 </div>
